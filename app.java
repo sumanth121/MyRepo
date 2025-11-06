@@ -4,13 +4,12 @@ this is java file
 
 we are learning git
 
-<<<<<<< Updated upstream
+ Updated upstream
 adding some code to check error 
 
+ trouleshooting
 
-  trouleshooting
-=======
 adding some code to check error
 
 error status
->>>>>>> Stashed changes
+
