@@ -13,3 +13,5 @@ adding some code to check error
 
 error status
 
+ git fetch
+
